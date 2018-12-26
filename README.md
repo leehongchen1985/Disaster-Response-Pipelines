@@ -22,7 +22,7 @@ The following python tools/module packages is needed for this study.
 ## Motivation/Object of project
 ---
 
-I will be creating a machine learning pipeline to categorize disaster events by using a data set containing real messages that were sent during disaster events, so that we can send the messages to an appropriate disaster relief agency.
+I had created a machine learning pipeline to categorize disaster events by using a data set containing real messages that were sent during disaster events, so that we can send the messages to an appropriate disaster relief agency.
 
 This project also include a web app where we can input a new message and get classification results in several categories.
 
@@ -44,7 +44,7 @@ The following are all python scripts that needed for this project. Below also pr
  ## Summary
 ---
 
-This project will create a useful web app where the disaster messages could be analysed immediately and get classification results in several categories. 
+This project had created a useful web app where the disaster messages could be analysed immediately and get classification results in several categories. 
 
  ## Acknowledgement
 ---
